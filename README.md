@@ -1,10 +1,11 @@
 # AGL-QUIZ
 
-## Make QT Application
-![image](https://user-images.githubusercontent.com/54492585/230721204-a663c9b5-f9cd-4273-8c96-29a473a377cb.png)
+## Sample Images
+
+![image](https://user-images.githubusercontent.com/54492585/230776789-fb5471e8-f2df-473a-86d1-37a85c174c65.png)
 
 
-![image](https://user-images.githubusercontent.com/54492585/230721225-eb76a3e2-5913-46b7-8af6-22736d2e74aa.png)
+![image](https://user-images.githubusercontent.com/54492585/230776809-d10d85e1-c67a-4c64-afec-4de945de6b09.png)
 
 ## Image
 
@@ -111,3 +112,5 @@ PACKAGECONFIG_append_pn-qtdeclarative = " qml-module-qtmultimedia qml-module-qtq
 ```
 
 **Build the AGL image**
+![image](https://user-images.githubusercontent.com/54492585/230776859-d40d725c-3774-47cb-ad53-0e70735cb673.png)
+
