@@ -1,0 +1,9 @@
+/home/madhu/AGL/master/meta-agl/templates/base/00_local.conf.agl.inc
+/home/madhu/AGL/master/./meta-agl/templates/machine/qemux86-64/50_local.conf.inc
+/home/madhu/AGL/master/meta-agl/templates/feature/agl-devel/50_local.conf.inc
+/home/madhu/AGL/master/meta-agl/templates/feature/agl-package-management/50_local.conf.inc
+/home/madhu/AGL/master/meta-agl/templates/base/99_local.conf.inc
+/dev/stdin
+/home/madhu/AGL/master/meta-agl/templates/base/01_setup_EULAfunc.sh
+/home/madhu/AGL/master/meta-agl/templates/base/01_setup_pkg_revision.sh
+/home/madhu/AGL/master/meta-agl/templates/base/99_setup_EULAconf.sh
